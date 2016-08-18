@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ybt.countnet.cn/mapp/dabao/ios/CarInsuranceQuotes.ipa</string>
+					<string>http://ybt.countnet.cn/mapp/anping/ios/AnPing.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.countnet.dabao</string>
+				<string>com.countnet.anping</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>达保</string>
+				<string>心安平</string>
 			</dict>
 		</dict>
 	</array>
